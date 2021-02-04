@@ -22,3 +22,4 @@ You Can Edit This File As Much As You Want!
 Just Do Not Copy The Entire Thing, And Take Credit For It.
 
 # Enjoy!
+https://cdn.discordapp.com/attachments/779964208019537960/806712159446368266/unknown.png
