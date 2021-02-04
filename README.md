@@ -1,5 +1,5 @@
 # Welcome To Virtia
-### Created For Anyone!
+
 
 # About
 `Virtia` Is A Simple, Yet Creative `Html` File That Was For Chromebook User's, And Is 
