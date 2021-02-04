@@ -6,20 +6,10 @@
 Basically A Way To Block Most `Web Blocking` Websites.
 
 # Instructions
+Instructions Are Really Simple.
+1. Download Files.
+2. Unzip Them
+3. Open Index.HTML
+Then You Are In And Done.
 
-## `index.html`
-Use index To Load The HTML File For Furthur Use.
-
-## `The VPN`
-To Use The Vpns You MUST Go To Settings, Then Wifi, And Then Add A VPN From There Its Pretty Simple.
-Set Name VPN
-Set Password VPN
-Set Group VPN
-Set Custom Name `vpn address`
-
-# Other Use
-You Can Edit This File As Much As You Want!
-Just Do Not Copy The Entire Thing, And Take Credit For It.
-
-# Enjoy!
-https://cdn.discordapp.com/attachments/779964208019537960/806712159446368266/unknown.png
+# Pictures From Source
