@@ -31217,61 +31217,63 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 62px;
+  min-height: 80px;
 }
 
 .u-header .u-menu-1 {
-  margin: 9px auto 0 19px;
+  font-family: size-14;
+  margin: 17px -54px 0 auto;
 }
 
 .u-header .u-nav-1 {
   font-size: 1rem;
-  letter-spacing: 0px;
-  text-transform: uppercase;
-  background-image: none;
-  font-weight: 700;
-  font-family: Lobster, cursive;
 }
 
 .u-header .u-nav-2 {
-  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
-  background-image: none;
-  text-shadow: 2px 2px 8px rgba(128,128,128,1);
-}
-
-.u-header .u-nav-3 {
   font-size: 1.25rem;
 }
 
-.u-header .u-nav-4 {
-  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
-  background-image: none;
-  text-shadow: 2px 2px 8px rgba(128,128,128,1);
-}
-
 .u-header .u-search-1 {
-  width: 157px;
-  min-height: 44px;
-  background-image: none;
-  margin: -44px 19px 9px auto;
+  min-height: 50px;
+  font-size: 1rem;
+  height: auto;
+  margin-top: -46px;
+  margin-bottom: 0;
+  margin-right: 0;
 }
 
-.u-header .u-search-input-1 {
-  font-weight: 700;
+.u-header .u-shopping-cart-1 {
+  height: 40px;
+  width: 40px;
+  margin: -44px auto 19px -55px;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
-    width: auto;
-    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-header .u-search-1 {
-    height: auto;
+    font-size: 0.875rem;
+    margin-right: initial;
   }
 }
 
 
+@media (max-width: 575px) {
+  .u-header .u-menu-1 {
+    width: auto;
+    margin-right: 1px;
+  }
 
+  .u-header .u-search-1 {
+    min-height: 44px;
+    margin-right: initial;
+  }
+
+  .u-header .u-shopping-cart-1 {
+    margin-bottom: 28px;
+  }
+}
 .u-footer .u-sheet-1 {
   min-height: 313px;
 }
