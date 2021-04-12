@@ -1,3 +1,12 @@
+
+#### Virtia Is Offically Out Of Service :(
+virtia has lasted over a few months, but its come to an end, for the dumbest reason ever.
+our website, got marked and was claimed so we had to close it, before the battle was lost...
+
+we hope you had fun with the website, see you all soon!
+
+
+
 # Welcome To Virtia
 
 
